@@ -1,0 +1,118 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+
+import ContactCTA from '../components/ContactCTA.astro';
+import Hero from '../components/Hero.astro';
+---
+
+<BaseLayout title="A propos | Laurent Escure" description="A Propos de Laurent Escure">
+	<div class="stack gap-20">
+		<main class="wrapper about">
+			<Hero
+				title="A Propos"
+				tagline="Découvrez mon parcours et mes compétences."
+			>
+				<img
+					width="1553"
+					height="873"
+					src="/assets/portrait.jpg"
+					alt="Laurent Escure au travail"
+				/>
+			</Hero>
+
+			<section>
+				<h2 class="section-title">Background</h2>
+				<div class="content">
+					<p>
+						Après avoir travaillé pendant 18 ans dans le domaine de la restauration, j'ai pris la décision de me reconvertir
+						dans le développement web. Cette décision vise à sortir de ma zone de confort et à acquérir de nouvelles compétences
+						dans un domaine qui m'a attiré ces dernières années et qui suscite mon intérêt..
+					</p>
+					<p>
+						Suite à une sélection par des tests MRS et une immersion de trois jours (piscine) pour rejoindre le Campus Numérique In The Alps à Annecy, je débute une formation de deux ans en développement
+						web et mobile. Cette formation comprend un programme de six mois axé sur la culture numérique, suivi de six mois dédiés à l'apprentissage
+						de divers langages de programmation et à la réalisation de projets en équipe, et enfin une année en entreprise
+						pour mettre en pratique les compétences acquises.
+					</p>
+					<p>
+						Ce qui me caractérise le plus, c'est ma capacité à m'adapter à de nouveaux environnements et à apprendre de nouvelles choses et de nouvelles
+						technologies.
+						De nature ouverte, j'accorde une grande importance à la communication et au partage de connaissance.
+					</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Diplômes</h2>
+				<div class="content">
+					<p>Bac+2 Developpeur web et web mobile (RNCP).</p>
+				</div>
+			</section>
+			<section>
+				<h2 class="section-title">Skills</h2>
+				<div class="content">
+					<p>Curieux, Créatif, Autonome, Organisé, Dynamique, Polyvalent, Travail en équipe</p>
+				</div>
+			</section>
+		</main>
+
+		<ContactCTA />
+	</div>
+</BaseLayout>
+
+<style>
+	.about {
+		display: flex;
+		flex-direction: column;
+		gap: 3.5rem;
+	}
+
+	img {
+		margin-top: 1.5rem;
+		border-radius: 1.5rem;
+		box-shadow: var(--shadow-md);
+	}
+
+	section {
+		display: flex;
+		flex-direction: column;
+		gap: 0.5rem;
+		color: var(--gray-200);
+	}
+
+	.section-title {
+		grid-column-start: 1;
+		font-size: var(--text-xl);
+		color: var(--gray-0);
+	}
+
+	.content {
+		grid-column: 2 / 4;
+	}
+
+	.content :global(a) {
+		text-decoration: 1px solid underline transparent;
+		text-underline-offset: 0.25em;
+		transition: text-decoration-color var(--theme-transition);
+	}
+
+	.content :global(a:hover),
+	.content :global(a:focus) {
+		text-decoration-color: currentColor;
+	}
+
+	@media (min-width: 50em) {
+		.about {
+			display: grid;
+			grid-template-columns: 1fr 60% 1fr;
+		}
+
+		.about > :global(:first-child) {
+			grid-column-start: 2;
+		}
+
+		section {
+			display: contents;
+			font-size: var(--text-lg);
+		}
+	}
+</style>
