@@ -4,7 +4,7 @@ publishDate: 2020-03-02 00:00:00
 img: /assets/velo.jpg
 img_alt: Vélo dans la pénombre.
 description: |
-  Dans le cadre de ma soutenance, j'ai réalisé e projet "Parcours de vélo" de A à Z. 
+  Dans le cadre de ma soutenance, j'ai réalisé ce projet "Parcours de vélo" de A à Z. 
 tags:
   - Symfony
   - Dev
