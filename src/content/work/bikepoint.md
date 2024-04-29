@@ -1,6 +1,6 @@
 ---
 title: Parcours de vélo (Symfony)
-publishDate: 2020-03-02 00:00:00
+publishDate: 2024-03-30 10:00:00
 img: /assets/velo.jpg
 img_alt: Vélo dans la pénombre.
 description: |
@@ -45,4 +45,5 @@ Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum qu
 - Docker
 - PhpMyAdmin
 - MailCatcher
+- Linux Debian
 
