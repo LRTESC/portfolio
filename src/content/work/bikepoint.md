@@ -40,7 +40,7 @@ Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum qu
 
 > Partie Back-end
 
-- Symfony 7 (PHP 8)
+- Symfony 7 (PHP 8) "Symfony 6 puis 7"
 - Doctrine
 - Docker
 - PhpMyAdmin
