@@ -1,6 +1,6 @@
 ---
 title: QuackNet (Symfony)
-publishDate: 2019-12-01 00:00:00
+publishDate: 2024-04-27 00:00:00
 img: /assets/quack.jpg
 img_alt: Canard à l 'eau
 description: |

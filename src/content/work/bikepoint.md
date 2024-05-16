@@ -1,6 +1,6 @@
 ---
 title: Parcours de vélo (Symfony)
-publishDate: 2024-03-30 10:00:00
+publishDate: 2024-04-26 10:00:00
 img: /assets/velo.jpg
 img_alt: Vélo dans la pénombre.
 description: |
