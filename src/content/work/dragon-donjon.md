@@ -4,36 +4,27 @@ publishDate: 2024-04-25 00:00:00
 img: /assets/donjon.jpeg
 img_alt: Donjon et dragon dessin .
 description: |
-  Reproduction du jeu "Donjon et Dragon" en Java
+  le projet consistait à faire le développement d’un jeu de plateau dans
+  l’univers “Donjons et Dragons”.
 tags:
   - Java
   - Jeu
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur posuere commodo venenatis. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Nam non ligula vel metus efficitur hendrerit. In hac habitasse platea dictumst. Praesent et mauris ut mi dapibus semper. Curabitur tortor justo, efficitur sit amet pretium cursus, porta eget odio. Cras ac venenatis dolor. Donec laoreet posuere malesuada. Curabitur nec mi tempor, placerat leo sit amet, tincidunt est. Quisque pellentesque venenatis magna, eget tristique nibh pulvinar in. Vestibulum vitae volutpat arcu. Aenean ut malesuada odio, sit amet pellentesque odio. Suspendisse nunc elit, blandit nec hendrerit non, aliquet at magna. Donec id leo ut nulla sagittis sodales.
+Le projet avait pour ambition de développer un jeu de plateau captivant, s'inspirant de l'univers riche et complexe de "Donjons et Dragons" (D&D). L'objectif principal était de transposer l'expérience immersive et interactive des jeux de rôle D&D dans un format de jeu de société qui soit à la fois accessible et engageant pour les joueurs.
 
-Integer vitae nibh elit. Suspendisse eget urna eu neque bibendum pharetra. Sed interdum lectus sem, in pulvinar magna dignissim vel. Quisque maximus at urna nec laoreet. Suspendisse potenti. Vestibulum rhoncus sem ut mi pellentesque, in vestibulum erat blandit. Aliquam sodales dui ac maximus consectetur. Duis quis est vehicula, imperdiet nisl nec, fermentum erat. Duis tortor diam, pharetra eu euismod in, vehicula non eros. Curabitur facilisis dui at erat ultrices gravida. In at nunc ultricies, pulvinar mi vel, sagittis mauris. Praesent pharetra posuere purus ac imperdiet. Nulla facilisi.
+Cette transposition visait à maintenir l'essence des aventures épiques, des quêtes mystérieuses et des combats stratégiques caractéristiques de D&D, tout en les rendant accessibles à un public plus large. Les éléments narratifs et les mécanismes de jeu de rôle de D&D ont été adaptés pour créer une expérience de jeu de plateau où les joueurs peuvent incarner des héros, explorer des mondes fantastiques, et collaborer pour surmonter des défis, le tout avec des règles simplifiées et des composants tangibles.
 
-Sed pulvinar porttitor mi in ultricies. Etiam non dolor gravida eros pulvinar pellentesque et dictum ex. Proin eu ornare ligula, sed condimentum dui. Vivamus tincidunt tellus mi, sed semper ipsum pharetra a. Suspendisse sollicitudin at sapien nec volutpat. Etiam justo urna, laoreet ac lacus sed, ultricies facilisis dolor. Integer posuere, metus vel viverra gravida, risus elit ornare magna, id feugiat erat risus ullamcorper libero. Proin vitae diam auctor, laoreet lorem vitae, varius tellus.
+Ainsi, ce projet n'était pas seulement une simple adaptation, mais une réinvention du concept de D&D pour offrir une nouvelle forme de divertissement tout en conservant la profondeur et l'excitation qui font la renommée de l'univers "Donjons et Dragons".
+***
+### _Compétences utilisé pour ce projet_
+***
+>* Java
 
-Mauris sed eros in ex maximus volutpat. Suspendisse potenti. Donec lacinia justo consectetur sagittis tempor. Proin ullamcorper nisi vitae auctor rhoncus. Sed tristique aliquam augue. Pellentesque vitae fringilla ligula. Nulla arcu elit, efficitur eu nunc malesuada, eleifend tincidunt orci. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer mattis orci in bibendum ultricies. Quisque a dui erat. Phasellus et vulputate ipsum. Proin metus ex, lobortis nec ornare eget, bibendum ut sapien. Aliquam in dolor lobortis, aliquam tellus a, congue augue. Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+>* Manipuler les collections d’objets
 
-Aenean pretium purus augue, ut bibendum erat convallis quis. Cras condimentum quis velit ac mollis. Suspendisse non purus fringilla, venenatis nisl porta, finibus odio. Curabitur aliquet metus faucibus libero interdum euismod. Morbi sed magna nisl. Morbi odio nibh, facilisis vel sapien eu, tempus tincidunt erat. Nullam erat velit, sagittis at purus quis, tristique scelerisque tortor. Pellentesque lacinia tortor id est aliquam viverra. Vestibulum et diam ac ipsum mollis fringilla.
+>* Manipuler des classes abstraites
 
-### Stack Utilisé pour ce projet
-> Partie Front-end
+>* JDBC
 
-- TWIG
-- Webpack Encore
-- HTML / CSS
-- FontAwsome
-- Bootstrap
 
-> Partie Back-end
-
-- Symfony 7 (PHP 8)
-- Doctrine
-- Docker
-- PhpMyAdmin
-- MailCatcher
-- Linux Debian
