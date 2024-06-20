@@ -13,7 +13,7 @@ tags:
 ---
 Ce projet consistait à la création d'une plateforme de microblogging, dans l'idée de faire un Twitter, où les utilisateurs peuvent publier de courts messages appelés "coins coins". L'objectif principal est de fournir une expérience utilisateur fluide et engageante tout en utilisant des technologies modernes et robustes pour assurer la performance et la sécurité de la plateforme.
 
-Les étapes étaient dans un premier temps, de créer des autorisations pour ce qui pouvait interagir avec ou sûr tel ou tel post de "coins, coins".
+Les étapes initiales comprenaient la mise en place des autorisations pour déterminer qui peut interagir avec ou sur tel ou tel post de "coins coins".
 ***
 ### _Stack Utilisé pour ce projet_
 ***
