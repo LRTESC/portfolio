@@ -27,4 +27,3 @@ Ainsi, ce projet n'était pas seulement une simple adaptation, mais une réinven
 
 >* JDBC
 
-
