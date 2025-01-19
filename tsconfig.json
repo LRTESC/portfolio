@@ -1,5 +1,6 @@
 {
   "extends": "astro/tsconfigs/strict",
+
   "include": [
     "./src/components/footer.astro",
     "./src/components/Icon.astro",
