@@ -11,8 +11,8 @@
   },
   "dependencies": {
     "@astrojs/check": "^0.9.4",
-    "@astrojs/vercel": "^8.2.7",
-    "astro": "^5.13.9",
+    "@astrojs/vercel": "^8.2.8",
+    "astro": "^5.13.10",
     "npm": "^11.6.0",
     "typescript": "^5.7.3"
   }
