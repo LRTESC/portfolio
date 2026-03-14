@@ -1,16 +1,16 @@
 ---
 title: QuackNet (Symfony)
-
-publishDate: 2024-04-27 00:00:00
+publishDate: 2024-04-27T10:00:00Z
 img: /assets/quack.jpg
-img_alt: Canard à l 'eau
+img_alt: Canard à l'eau
 description: |
-  Création d'une sorte de twitter, pour faire communiqué des "coins coins".
+  Création d'une sorte de Twitter pour faire communiquer des "coins coins".
 tags:
   - Dev
   - Symfony
   - Backend
 ---
+
 Ce projet consistait à la création d'une plateforme de microblogging, dans l'idée de faire un Twitter, où les utilisateurs peuvent publier de courts messages appelés "coins coins". L'objectif principal est de fournir une expérience utilisateur fluide et engageante tout en utilisant des technologies modernes et robustes pour assurer la performance et la sécurité de la plateforme.
 
 Les étapes initiales comprenaient la mise en place des autorisations pour déterminer qui peut interagir avec ou sur tel ou tel post de "coins coins".

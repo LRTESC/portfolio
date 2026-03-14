@@ -1,12 +1,12 @@
 ---
 title: Wordpress (Elementor)
-publishDate: 2024-04-23 00:00:00
+publishDate: 2024-04-23T10:00:00Z
 img: /assets/elementor.jpg
 img_alt: Elementor
 description: |
   Travail de référencement / Gestion de sites internet.
 tags:
-  - CMS 
+  - CMS
   - Référencement (SEO)
   - Rédaction des procédures
 ---

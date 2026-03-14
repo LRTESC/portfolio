@@ -1,10 +1,10 @@
 ---
 title: Parcours de vélo (Symfony)
-publishDate: 2024-04-26 10:00:00
+publishDate: 2024-04-26T10:00:00Z
 img: /assets/velo.jpg
 img_alt: Vélo dans la pénombre.
 description: |
-  Dans le cadre de ma soutenance, j'ai réalisé ce projet "Parcours de vélo" de A à Z. 
+  Dans le cadre de ma soutenance, j'ai réalisé ce projet "Parcours de vélo" de A à Z.
 tags:
   - Symfony 7
   - PHP 8

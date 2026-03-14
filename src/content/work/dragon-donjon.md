@@ -1,6 +1,6 @@
 ---
 title: Donjon et Dragon (Java)
-publishDate: 2024-04-25 00:00:00
+publishDate: 2024-04-25T10:00:00Z
 img: /assets/donjon.jpeg
 img_alt: Donjon et dragon dessin .
 description: |
